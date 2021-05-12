@@ -1,7 +1,2 @@
-Use this file to document your project.
-
-This is an empty repo.  Remember that you must "tell" git about new files by explicitly adding them:
-```
-git add filename
-```
-Then you can commit and push as usual.
+# Project Description
+This semester, our team, iOS Success, worked on the primary goal of becoming competent in the area of iOS development. In order to demonstrate our competency in the area, our team decided that the best way would be by developing our own iOS application. In order to develop our own iOS application, our team had to learn the basics of Swift as a programming language, learn how to operate Apple’s IDE, XCode, and then learn how SwiftUI is used to build user interfaces. As we became proficient in these areas, our next goal as a group was to define a project idea which would best represent the skills we learned over the course of the semester. For our group, that idea was a multi-functional calculator application which would be useful primarily to students. In the application we came up with four different kinds of calculators; 1. Tip Calculator, 2. Loan Calculator, 3. Asset Calculator, 4. Grade Point Average Calculator. 
